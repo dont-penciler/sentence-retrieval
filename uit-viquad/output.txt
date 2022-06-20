@@ -1,0 +1,5 @@
+Download saved models through this link: https://drive.google.com/drive/folders/1dz6LW6swqntcLwQQJMEbUHCvrSaukpl5?usp=sharing
+The folder includes checkpoints for 3 models:
+1. SimCSE-Vietnamese finetuned with 5 hard negatives from UIT-ViQuAD
+2. SimCSE-Vietnamese finetuned with 3 hard negatives from UIT-ViQuAD
+3. XLM-R finetuned with 5 hard negatives from UIT-ViQuAD
